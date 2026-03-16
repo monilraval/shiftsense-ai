@@ -1,4 +1,5 @@
 # ShiftSense AI
+![ShiftSense AI Diagram](warehouse-ai-diagram.png.png)
 Building AI course project
 
 ## Summary
